@@ -1,0 +1,51 @@
+Summary
+Full-Stack engineer of 3+ years experience with a track record of building resilient systems, optimizing
+infrastructure, and automating manual workflows. Passionate about clean architecture, deep debugging, and
+boosting developer efficiency through internal tooling.
+Technical Skills
+Languages: Java, HTML/CSS, JavaScript, SQL
+Technologies/Frameworks: Spring, SpringBoot, Spring AI, React, Kafka, Junit, Mockito
+Cloud Platforms: AWS (EC2, RDS, S3, Lambda, IAM, CloudWatch), Terraform, FileNet
+Database: Postgres, MySQL, Redis
+Developer Tools: Docker, Jenkins, VS Code, Eclipse, IntelliJ, Jira, ServiceNow
+Experience
+Fifth Third Bank via SLK Oct 2023 – Present
+Software Engineer Bengaluru, IN
+• Built and deployed a SpringBoot-based REST API service integrated with FileNet on AWS ECS, enabling
+automated document workflows and reducing manual hours by 30K/year.
+• Refactored a monolith alerts engine into Kafka-based, cloud-native microservices deployed via Docker on AWS ECS
+using Terraform; improved scalability and deployment speed by 40%.
+• Designed distributed Redis caching to reduce query load by 60%, enabling low-latency response times during peak usage
+and preventing CPU spikes across 14 microservices.
+• Led internal developer tooling by integrating GitHub Copilot using custom Java parsers and OpenAI APIs to
+auto-generate context files and creating prompt libraries improving dev onboarding time.
+• Migrated 14 legacy apps to centralized authentication using Spring Security with OAuth2 and OKTA, replacing
+PingAgent and improving SSO reliability across banking platform.
+Intuit via Cognizant Oct 2020 – Oct 2021
+Program Analyst Trainee Bengaluru, IN
+• Developed backend services and internal tools for Intuit’s banking data systems, improving real-time data reliability for
+Mint, TurboTax, and QuickBooks.
+• Wrote unit/integration tests using JUnit, Mockito; followed TDD in critical microservice workflows.
+• Automated docs, built Splunk-based log tracing, and contributed to stable data pipelines in a cross-functional,
+high-scale environment.
+Cognizant Technology solutions Dec 2019 – Apr 2020
+SDE Intern Hyderabad, IN
+• Contributed to Java backend modules with REST APIs and JDBC, gaining hands-on experience in Terraform,,
+debugging, and database operations.
+• Collaborated on enterprise codebases by writing unit tests and fixing bugs, improving code stability and maintainability.
+Projects
+XP Hunt | Java, SpringBoot, RestAPI, OAuth2, Postgres, Docker, Renderer, Swagger API github.com/XP-Hunt
+• Built a gamified household productivity app that enables shared living members or families to create, claim, and track
+tasks within virtual rooms, earning XP points based on task completion to promote engagement and accountability.
+• Developed a secure, modular backend using Java, Spring Boot, PostgreSQL, and Spring Security, with layered
+architecture (controller–service–repository), JWT-based stateless authentication, and RESTful APIs to support
+scalable room/task interactions and user management, containerized in Docker and deployed on render.com.
+DNS Resolver | Java, sockets github.com/dns-resolver
+• Built a recursive DNS resolver handling CNAMEs, A, and NS records, implementing custom UDP packet parsing,
+timeouts, and fallbacks. Simulates core behavior of public DNS resolvers.
+Java Http Server | Java, sockets • Developed multi-threaded HTTP server from scratch using sockets and executor services, supporting REST routing,
+graceful shutdown, and static file serving. Demonstrates low-level understanding of protocol handling.
+Education
+github.com/HttpServer
+G.PullaReddy Engineering college B.Tech in Electronics and Communication Aug. 2016 – Sep 2020
+Kurnool, AP
